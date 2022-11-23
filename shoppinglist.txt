@@ -6,3 +6,6 @@ butter
 milk
 meat
 tacos
+
+dishsoap
+chocolate
