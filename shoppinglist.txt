@@ -2,8 +2,8 @@ shop all this things
 
 egg
 honey
-butter
-milk
+this should not be normal butter
+milk should be lactose free
 meat
 tacos
 
